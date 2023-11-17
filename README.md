@@ -1,4 +1,4 @@
-# Flutter Todo app
+# Flutter Todo App
 
 A simple todo app with Provider state management.
 
@@ -16,6 +16,7 @@ A simple todo app with Provider state management.
 
 <img src="https://github.com/WilliamNha/todo_app_with_provider/assets/49360858/64758e50-39cd-4456-ba77-90e304e2806a" width="250" height="500">
 
-<img src="https://github.com/WilliamNha/todo_app_with_provider/assets/49360858/64758e50-39cd-4456-ba77-90e304e2806a" width="250" height="500">
+<img src="https://github.com/WilliamNha/todo_app_with_provider/assets/49360858/42b72c9b-f7db-4294-894a-89a19d661081" width="250" height="500">
 
 <img src="https://github.com/WilliamNha/todo_app_with_provider/assets/49360858/a0ac9c19-dd53-4c84-8eca-9bf896b7a825" width="250" height="500">
+
