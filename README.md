@@ -1,16 +1,21 @@
-# todo_app_with_provider
+# Flutter Todo App
 
-A new Flutter project.
+A simple todo app with Provider state management.
 
-## Getting Started
+## How to Use
+- To use the app with api, clone and run the api project with this link:
+  https://github.com/WilliamNha/todo-task-api-nodejs
 
-This project is a starting point for a Flutter application.
+## All features 
+- Create task
+- Get all tasks
+- Get task by ID
+- Update task
+- Delete task
+- Toogle task (done || !done)
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/WilliamNha/todo_app_with_provider/assets/49360858/64758e50-39cd-4456-ba77-90e304e2806a" width="250" height="500">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/WilliamNha/todo_app_with_provider/assets/49360858/42b72c9b-f7db-4294-894a-89a19d661081" width="250" height="500">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/WilliamNha/todo_app_with_provider/assets/49360858/a0ac9c19-dd53-4c84-8eca-9bf896b7a825" width="250" height="500">
